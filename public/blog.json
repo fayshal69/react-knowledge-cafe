@@ -1,0 +1,43 @@
+[
+    {
+      "id": "123456",
+      "cover_image": "https://i.postimg.cc/9MwSynM2/1.jpg",
+      "author": "Jane Doe",
+      "author_image": "https://i.postimg.cc/xTvwshPT/boy1.png",
+      "title": "The Secret Garden",
+      "posted_date": "March 10, 2024",
+      "reading_time": 15,
+      "hashtags": ["#fiction", "#mystery", "#nature"]
+    },
+    {
+      "id": "789012",
+      "cover_image": "https://i.postimg.cc/kGFTc3P0/2.png",
+      "author": "John Smith",
+      "author_image": "https://i.postimg.cc/xTvwshPT/boy1.png",
+      "title": "Beyond the Stars",
+      "posted_date": "March 11, 2024",
+      "reading_time": 20,
+      "hashtags": ["#sciencefiction", "#adventure", "#space"]
+    },
+    {
+      "id": "345678",
+      "cover_image": "https://i.postimg.cc/MZRNTNNb/3.png",
+      "author": "Emily Johnson",
+      "author_image": "https://i.postimg.cc/xTvwshPT/boy1.png",
+      "title": "The Enchanted Forest",
+      "posted_date": "March 9, 2024",
+      "reading_time": 25,
+      "hashtags": ["#fantasy", "#magic", "#adventure"]
+    },
+    {
+      "id": "901234",
+      "cover_image": "https://i.postimg.cc/0jpBBKDH/4.jpg",
+      "author": "David Brown",
+      "author_image": "https://i.postimg.cc/xTvwshPT/boy1.png",
+      "title": "Under the Sea",
+      "posted_date": "March 8, 2024",
+      "reading_time": 18,
+      "hashtags": ["#childrensbooks", "#ocean", "#learning"]
+    }
+]
+  
